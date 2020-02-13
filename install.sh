@@ -24,7 +24,7 @@ done
 for file in dotfiles/.[^.]* ; do 
     echo "Creating symlink for:"
     echo "$(basename "$file")"
-    ln -s "$path/$file" test/
+    ln -s "$path/$file" ~/
 done
 
 echo "DONE"
