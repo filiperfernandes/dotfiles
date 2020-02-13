@@ -13,3 +13,33 @@
 [submodule "dotfiles/.tmux/plugins/tpm"]
 	path = dotfiles/.tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule "dotfiles/.vim/bundle/Vundle.vim"]
+	path = dotfiles/.vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim
+[submodule "dotfiles/.vim/bundle/comfortable-motion.vim"]
+	path = dotfiles/.vim/bundle/comfortable-motion.vim
+	url = https://github.com/yuttie/comfortable-motion.vim
+[submodule "dotfiles/.vim/bundle/jedi-vim"]
+	path = dotfiles/.vim/bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim
+[submodule "dotfiles/.vim/bundle/nerdcommenter"]
+	path = dotfiles/.vim/bundle/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter
+[submodule "dotfiles/.vim/bundle/nerdtree"]
+	path = dotfiles/.vim/bundle/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "dotfiles/.vim/bundle/vim-airline"]
+	path = dotfiles/.vim/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "dotfiles/.vim/bundle/vim-airline-themes"]
+	path = dotfiles/.vim/bundle/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline
+[submodule "dotfiles/.vim/bundle/vim-indent-guides"]
+	path = dotfiles/.vim/bundle/vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides
+[submodule "dotfiles/.vim/bundle/vim-jinja"]
+	path = dotfiles/.vim/bundle/vim-jinja
+	url = https://github.com/nathanaelkane/vim-indent-guides
+[submodule "dotfiles/.vim/bundle/vim-python-pep8-indent"]
+	path = dotfiles/.vim/bundle/vim-python-pep8-indent
+	url = https://github.com/Vimjas/vim-python-pep8-indent
