@@ -1,0 +1,10 @@
+pane	0	0	:filiperf	1	:*	0	:/home/filipe	1	bash	:
+pane	0	1	:suporte	0	:	0	:/home/filipe	0	bash	:
+pane	0	1	:suporte	0	:	1	:/home/filipe/git	1	bash	:
+pane	0	2	:other	0	:	0	:/home/filipe	1	bash	:
+pane	0	3	:tests	0	:-	0	:/home/filipe	1	bash	:
+window	0	0	1	:*	b960,211x53,0,0,3
+window	0	1	0	:	dffe,211x53,0,0{105x53,0,0,1,105x53,106,0,2}
+window	0	2	0	:	b961,211x53,0,0,4
+window	0	3	0	:-	b962,211x53,0,0,5
+state	0	

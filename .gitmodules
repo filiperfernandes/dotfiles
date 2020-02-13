@@ -1,0 +1,3 @@
+[submodule "dotfiles/.tmux/plugins/tmux-colors-solarized"]
+	path = dotfiles/.tmux/plugins/tmux-colors-solarized
+	url = https://github.com/seebi/tmux-colors-solarized
